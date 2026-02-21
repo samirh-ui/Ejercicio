@@ -1,0 +1,76 @@
+## Preguntas de Java
+
+### 15. ¿Cuáles son los tipos de datos primitivos en Java?
+
+En Java existen 8 tipos de datos primitivos:
+
+- byte
+- short
+- int
+- long
+- float
+- double
+- char
+- boolean
+
+Estos tipos almacenan valores simples y no son objetos.
+
+---
+
+### 16. ¿Cómo funcionan las estructuras de control de flujo como if, else, switch y bucles en Java?
+
+Las estructuras de control permiten tomar decisiones o repetir instrucciones.
+
+- if / else: Ejecutan bloques de código según una condición.
+- switch: Permite evaluar múltiples casos sobre una variable.
+- for: Repite un bloque un número determinado de veces.
+- while: Repite mientras la condición sea verdadera.
+- do-while: Ejecuta al menos una vez y luego evalúa la condición.
+
+---
+
+### 17. ¿Por qué es importante usar nombres significativos para variables y métodos?
+
+Porque:
+
+- Mejoran la legibilidad del código.
+- Facilitan el mantenimiento.
+- Permiten que otros desarrolladores entiendan el propósito del código.
+- Reducen errores y confusiones.
+
+Ejemplo:
+Es mejor usar `totalVentas` que `tv`.
+
+---
+
+### 18. ¿Qué es la Programación Orientada a Objetos (POO)?
+
+Es un paradigma de programación basado en objetos.
+
+Un objeto combina:
+- Atributos (datos)
+- Métodos (comportamientos)
+
+En Java, casi todo se basa en clases y objetos.
+
+---
+
+### 19. ¿Cuáles son los cuatro pilares de la Programación Orientada a Objetos?
+
+1. Encapsulamiento
+2. Abstracción
+3. Herencia
+4. Polimorfismo
+
+Estos principios permiten organizar el código de manera modular y reutilizable.
+
+---
+
+### 20. ¿Qué es la herencia en POO y cómo se utiliza en Java?
+
+La herencia permite que una clase herede atributos y métodos de otra clase.
+
+En Java se usa con la palabra clave:
+
+```java
+extends
